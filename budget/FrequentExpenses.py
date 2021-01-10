@@ -1,7 +1,7 @@
 from . import Expense
 import collections
-import matplotlib
-matplotlib.use('TkAgg')
+#import matplotlib
+#matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
 
 
